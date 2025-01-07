@@ -58,7 +58,7 @@ Explore the demo video of the project, showcasing its key functionalities:
 ### **Documentation**
 Access detailed project documentation for in-depth understanding:  
 [View Documentation](https://drive.google.com/file/d/1SQSMSr1dItZWVhGi-6ESl82JmqN8lbmO/view?usp=sharing)  
-[View Documentation](https://docs.google.com/document/d/1oNfB1xA5KKlDrJ1ycowzYtdPPBgL5DBf/edit?usp=sharing&ouid=111681225658177405442&rtpof=true&sd=true))
+[View Documentation](https://docs.google.com/document/d/1oNfB1xA5KKlDrJ1ycowzYtdPPBgL5DBf/edit?usp=sharing&ouid=111681225658177405442&rtpof=true&sd=true)
 
 ---
 
